@@ -1,7 +1,4 @@
-var tellJoke = function (joke, punchline) {
-  alert(joke)
-  alert(punchline)
-}
+
 
 var clapSound = document.getElementById("clapSound");
 var clapButton = document.getElementById('clap')
